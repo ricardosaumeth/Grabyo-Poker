@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card deck should match the Snapshot 1`] = `
+Array [
+  <header
+    className="sc-bwzfXH ipUATe"
+  >
+    <img
+      alt="Grabyo logo"
+      src="/logo.svg"
+      style={
+        Object {
+          "verticalAlign": "middle",
+        }
+      }
+      width="50"
+    />
+    <h1>
+      Grabyo Poker
+    </h1>
+  </header>,
+  <main
+    className="sc-bdVaJa gTmugh"
+    role="main"
+  >
+    <section>
+      <h1>
+        Cards deck
+      </h1>
+    </section>
+    <section>
+      <header>
+        <h1>
+          Players
+        </h1>
+      </header>
+      <section />
+      <footer
+        className="sc-bxivhb ghhSQC"
+      >
+        <button
+          className="sc-ifAKCX bKJSRJ"
+          onClick={[Function]}
+        >
+          <span
+            alt="woman raising hand"
+            aria-label="woman raising hand"
+            role="img"
+          >
+            🙋‍♀️
+          </span>
+          Add new player
+        </button>
+        <button
+          className="sc-ifAKCX bKJSRJ"
+          onClick={[Function]}
+        >
+          <span
+            alt="trophy"
+            aria-label="trophy"
+            role="img"
+          >
+            🏆
+          </span>
+          Find the winner
+        </button>
+      </footer>
+    </section>
+  </main>,
+]
+`;

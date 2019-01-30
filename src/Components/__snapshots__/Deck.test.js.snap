@@ -1,0 +1,380 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card deck should match the Snapshot 1`] = `
+<div
+  className="sc-bZQynM ddCsBS"
+>
+  <div>
+    <div
+      className="sc-htpNat lmaxQV"
+      selected={false}
+      value="2"
+    >
+      2
+    </div>
+    <div
+      className="sc-htpNat lmaxQV"
+      selected={false}
+      value="3"
+    >
+      3
+    </div>
+    <div
+      className="sc-htpNat lmaxQV"
+      selected={false}
+      value="4"
+    >
+      4
+    </div>
+    <div
+      className="sc-htpNat lmaxQV"
+      selected={false}
+      value="5"
+    >
+      5
+    </div>
+    <div
+      className="sc-htpNat lmaxQV"
+      selected={false}
+      value="6"
+    >
+      6
+    </div>
+    <div
+      className="sc-htpNat lmaxQV"
+      selected={false}
+      value="7"
+    >
+      7
+    </div>
+    <div
+      className="sc-htpNat lmaxQV"
+      selected={false}
+      value="8"
+    >
+      8
+    </div>
+    <div
+      className="sc-htpNat lmaxQV"
+      selected={false}
+      value="9"
+    >
+      9
+    </div>
+    <div
+      className="sc-htpNat lmaxQV"
+      selected={false}
+      value="T"
+    >
+      T
+    </div>
+    <div
+      className="sc-htpNat lmaxQV"
+      selected={false}
+      value="J"
+    >
+      J
+    </div>
+    <div
+      className="sc-htpNat lmaxQV"
+      selected={false}
+      value="Q"
+    >
+      Q
+    </div>
+    <div
+      className="sc-htpNat lmaxQV"
+      selected={false}
+      value="K"
+    >
+      K
+    </div>
+    <div
+      className="sc-htpNat lmaxQV"
+      selected={false}
+      value="A"
+    >
+      A
+    </div>
+  </div>
+  <div>
+    <div
+      className="sc-htpNat jXZeqR"
+      selected={false}
+      value="2"
+    >
+      2
+    </div>
+    <div
+      className="sc-htpNat jXZeqR"
+      selected={false}
+      value="3"
+    >
+      3
+    </div>
+    <div
+      className="sc-htpNat jXZeqR"
+      selected={false}
+      value="4"
+    >
+      4
+    </div>
+    <div
+      className="sc-htpNat jXZeqR"
+      selected={false}
+      value="5"
+    >
+      5
+    </div>
+    <div
+      className="sc-htpNat jXZeqR"
+      selected={false}
+      value="6"
+    >
+      6
+    </div>
+    <div
+      className="sc-htpNat jXZeqR"
+      selected={false}
+      value="7"
+    >
+      7
+    </div>
+    <div
+      className="sc-htpNat jXZeqR"
+      selected={false}
+      value="8"
+    >
+      8
+    </div>
+    <div
+      className="sc-htpNat jXZeqR"
+      selected={false}
+      value="9"
+    >
+      9
+    </div>
+    <div
+      className="sc-htpNat jXZeqR"
+      selected={false}
+      value="T"
+    >
+      T
+    </div>
+    <div
+      className="sc-htpNat jXZeqR"
+      selected={false}
+      value="J"
+    >
+      J
+    </div>
+    <div
+      className="sc-htpNat jXZeqR"
+      selected={false}
+      value="Q"
+    >
+      Q
+    </div>
+    <div
+      className="sc-htpNat jXZeqR"
+      selected={false}
+      value="K"
+    >
+      K
+    </div>
+    <div
+      className="sc-htpNat jXZeqR"
+      selected={false}
+      value="A"
+    >
+      A
+    </div>
+  </div>
+  <div>
+    <div
+      className="sc-htpNat egytKp"
+      selected={false}
+      value="2"
+    >
+      2
+    </div>
+    <div
+      className="sc-htpNat egytKp"
+      selected={false}
+      value="3"
+    >
+      3
+    </div>
+    <div
+      className="sc-htpNat egytKp"
+      selected={false}
+      value="4"
+    >
+      4
+    </div>
+    <div
+      className="sc-htpNat egytKp"
+      selected={false}
+      value="5"
+    >
+      5
+    </div>
+    <div
+      className="sc-htpNat egytKp"
+      selected={false}
+      value="6"
+    >
+      6
+    </div>
+    <div
+      className="sc-htpNat egytKp"
+      selected={false}
+      value="7"
+    >
+      7
+    </div>
+    <div
+      className="sc-htpNat egytKp"
+      selected={false}
+      value="8"
+    >
+      8
+    </div>
+    <div
+      className="sc-htpNat egytKp"
+      selected={false}
+      value="9"
+    >
+      9
+    </div>
+    <div
+      className="sc-htpNat egytKp"
+      selected={false}
+      value="T"
+    >
+      T
+    </div>
+    <div
+      className="sc-htpNat egytKp"
+      selected={false}
+      value="J"
+    >
+      J
+    </div>
+    <div
+      className="sc-htpNat egytKp"
+      selected={false}
+      value="Q"
+    >
+      Q
+    </div>
+    <div
+      className="sc-htpNat egytKp"
+      selected={false}
+      value="K"
+    >
+      K
+    </div>
+    <div
+      className="sc-htpNat egytKp"
+      selected={false}
+      value="A"
+    >
+      A
+    </div>
+  </div>
+  <div>
+    <div
+      className="sc-htpNat bgQLPz"
+      selected={false}
+      value="2"
+    >
+      2
+    </div>
+    <div
+      className="sc-htpNat bgQLPz"
+      selected={false}
+      value="3"
+    >
+      3
+    </div>
+    <div
+      className="sc-htpNat bgQLPz"
+      selected={false}
+      value="4"
+    >
+      4
+    </div>
+    <div
+      className="sc-htpNat bgQLPz"
+      selected={false}
+      value="5"
+    >
+      5
+    </div>
+    <div
+      className="sc-htpNat bgQLPz"
+      selected={false}
+      value="6"
+    >
+      6
+    </div>
+    <div
+      className="sc-htpNat bgQLPz"
+      selected={false}
+      value="7"
+    >
+      7
+    </div>
+    <div
+      className="sc-htpNat bgQLPz"
+      selected={false}
+      value="8"
+    >
+      8
+    </div>
+    <div
+      className="sc-htpNat bgQLPz"
+      selected={false}
+      value="9"
+    >
+      9
+    </div>
+    <div
+      className="sc-htpNat bgQLPz"
+      selected={false}
+      value="T"
+    >
+      T
+    </div>
+    <div
+      className="sc-htpNat bgQLPz"
+      selected={false}
+      value="J"
+    >
+      J
+    </div>
+    <div
+      className="sc-htpNat bgQLPz"
+      selected={false}
+      value="Q"
+    >
+      Q
+    </div>
+    <div
+      className="sc-htpNat bgQLPz"
+      selected={false}
+      value="K"
+    >
+      K
+    </div>
+    <div
+      className="sc-htpNat bgQLPz"
+      selected={false}
+      value="A"
+    >
+      A
+    </div>
+  </div>
+</div>
+`;

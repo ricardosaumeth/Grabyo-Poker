@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card deck should match the Snapshot 1`] = `
+<input
+  disabled={true}
+  onChange={[Function]}
+  placeholder="Player 1"
+  type="text"
+  value=""
+/>
+`;

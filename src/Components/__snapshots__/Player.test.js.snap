@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card deck should match the Snapshot 1`] = `
+<article>
+  <p>
+    <input
+      disabled={true}
+      onChange={[Function]}
+      placeholder="Player 1"
+      type="text"
+      value=""
+    />
+    <button
+      className="sc-ifAKCX bKJSRJ"
+      onClick={[Function]}
+    >
+      <span
+        alt="pencil"
+        aria-label="pencil"
+        role="img"
+      >
+        ✏️
+      </span>
+      Edit
+    </button>
+    <button
+      className="sc-ifAKCX bKJSRJ"
+    >
+      <span
+        alt="flame"
+        aria-label="flame"
+        role="img"
+      >
+        🔥
+      </span>
+      Remove
+    </button>
+  </p>
+  <div
+    className="sc-EHOje gsupyp"
+  >
+    <div
+      className="sc-htpNat egytKp"
+      value="A"
+    >
+      A
+    </div>
+    <div
+      className="sc-htpNat bgQLPz"
+      value="8"
+    >
+      8
+    </div>
+    <div
+      className="sc-htpNat egytKp"
+      value="4"
+    >
+      4
+    </div>
+    <div
+      className="sc-htpNat lmaxQV"
+      value="8"
+    >
+      8
+    </div>
+    <div
+      className="sc-htpNat jXZeqR"
+      value="9"
+    >
+      9
+    </div>
+  </div>
+</article>
+`;
